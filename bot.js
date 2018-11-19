@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 
 client.on('ready', () => {
-    client.user.setGame(`:) , الحيه حلوه , ❣ `,"http://twitch.tv/M3roof")
+    client.user.setGame(`Fuck Love , ❣ `,"http://twitch.tv/M3roof")
     client.user.setStatus("online")
 
 });
